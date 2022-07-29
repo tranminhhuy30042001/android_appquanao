@@ -2,7 +2,7 @@ Hệ thống:
 -	Lưu trữ database trên Firestore Database
 -	Lưu trữ hình ảnh trên Storage
 -	Sử dụng API đặt tại Heroku
--   Có các chức năng cơ bản của 1 app mua hàng gồm tìm kiếm,đặt hàng,đăng nhập vân tay,thống kê đơn hàng áp dụng quét mã qr để giảm giá....
+-   Có các chức năng cơ bản của 1 app mua hàng gồm tìm kiếm,đặt hàng,đăng nhập vân tay,thống kê đơn hàng áp dụng quét mã qr để giảm giá...
 1 số giao diện cơ bản:
 Giao diện đăng nhập
 ![alt text](https://firebasestorage.googleapis.com/v0/b/happy-3f088.appspot.com/o/1.png?alt=media&token=fa9741eb-988e-4d8c-8d20-d65f1f7adb9d)
