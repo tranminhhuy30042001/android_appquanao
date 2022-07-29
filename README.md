@@ -1,7 +1,7 @@
 <b>Yêu cầu về cấu hình:</b>
 <br />Hệ điều hành android SDK từ 21-32
 <br />JavaVersion.VERSION_1_8
-<br />Hệ thống:
+<br /><b>Hệ thống:</b>
 <br />-	Lưu trữ database trên Firestore Database
 <br />-	Lưu trữ hình ảnh trên Storage
 <br />-	Sử dụng API đặt tại Heroku
