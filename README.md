@@ -1,4 +1,4 @@
-Yêu cầu về cấu hình:
+<b>Yêu cầu về cấu hình:</b>
 <br />Hệ điều hành android SDK từ 21-32
 <br />JavaVersion.VERSION_1_8
 <br />Hệ thống:
